@@ -1,0 +1,1 @@
+// Length berfungsi sebagai mengetahui berapa jumlah elemen pada array. 

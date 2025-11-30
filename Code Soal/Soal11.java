@@ -1,0 +1,1 @@
+// Variabel dalam java yakni berfungsi sebagai lokasi memori dalam menyimpan data

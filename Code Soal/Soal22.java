@@ -1,0 +1,1 @@
+// Fungsi catch adalah SMenangani galat dari try
